@@ -8,25 +8,25 @@ Green Target Shooter is a simple target shooting game created using Tkinter.
 
 
 
-    ```
+    
     git clone https://github.com/your-username/green-target-shooting.git
-    ```
+    
 
 2.Navigate to the project directory:
 
 
 
-    ```
+    
     cd green-target-shooting
-    ``` 
+     
 
 3.Run the game:
 
 
 
-    ```
+    
     python game.py
-    ```
+    
 
 ## Usage
 
